@@ -19,8 +19,12 @@ namespace sofa
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //puk
-            //puk2
+      
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "Sveiks no skolotāja!";
         }
     }
 }
